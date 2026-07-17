@@ -1,6 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Manjunath
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998E,50:38EF7D,100:00C9A7&height=160&section=header&text=Hi%2C%20I'm%20Manjunath&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer;4%2B+Years+of+Experience;Java+%7C+Selenium+%7C+Playwright;API+Testing+%7C+REST+Assured;Building+Scalable+Automation+Frameworks;Always+Learning+New+Technologies" alt="Typing Animation"/>
 
