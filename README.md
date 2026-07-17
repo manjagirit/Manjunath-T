@@ -1,18 +1,336 @@
-# 💫 About Me:
-<div align="center"><br><br># Hi there 👋 I'm Manjunath<br><br><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=QA+Automation+Engineer;Java+%7C+Selenium+%7C+Playwright;API+Testing+%7C+Rest+Assured;Building+Reliable+Test+Automation" /><br><br><img src="https://komarev.com/ghpvc/?username=manjagirit&label=Profile%20Views&color=0e75b6&style=for-the-badge"/><br><br></div><br><br>---<br><br># 💫 About Me<br><br>🚀 QA Automation Engineer passionate about building scalable and maintainable automation frameworks.<br><br>💻 I enjoy solving automation challenges using Java and modern testing tools.<br><br>🌱 Currently learning **Playwright with Java** and improving automation architecture.<br><br>🔍 Interested in UI Automation, API Testing, CI/CD, and Test Automation Framework Design.<br><br>⚡ I believe:<br>> **"Quality is never an accident. It is always the result of intelligent effort."**<br><br>---<br><br># 🛠 Tech Stack<br><br>## Programming<br><br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br><br>---<br><br>## Automation<br><br>![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)<br>![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)<br>![TestNG](https://img.shields.io/badge/TestNG-red?style=for-the-badge)<br>![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)<br><br>---<br><br>## API Testing<br><br>![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)<br>![REST Assured](https://img.shields.io/badge/REST--Assured-009688?style=for-the-badge)<br><br>---<br><br>## Build Tools<br><br>![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)<br><br>---<br><br>## CI/CD<br><br>![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)<br><br>---<br><br>## Version Control<br><br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)<br><br>---<br><br>## Database<br><br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br><br>---<br><br>## IDE<br>![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse)<br><br>---<br><br># 🚀 Featured Projects<br><br>### 🔹 Selenium Java Hybrid Framework<br><br>✔ Java<br><br>✔ Selenium 4<br><br>✔ TestNG<br><br>✔ Page Object Model<br><br>✔ Data Driven Testing<br><br>✔ Apache POI<br><br>✔ Extent Reports<br><br>✔ Log4j2<br><br>✔ Maven<br><br>✔ Cross Browser Testing<br><br>✔ Parallel Execution<br><br>🔗 Repository:<br>https://github.com/manjagirit/selenium-java-hybrid-framework<br><br>---<br><br>### 🔹 Playwright Java Automation Framework<br><br>✔ Java<br><br>✔ Playwright<br><br>✔ TestNG<br><br>✔ API Integration<br><br>✔ Retry Mechanism<br><br>✔ Parallel Execution<br><br>✔ CI/CD Ready<br><br>---<br><br>### 🔹 REST Assured API Automation Framework<br><br>✔ REST Assured<br><br>✔ Java<br><br>✔ TestNG<br><br>✔ JSON Schema Validation<br><br>✔ Authentication<br><br>✔ Serialization<br><br>✔ Deserialization<br><br>✔ API Reporting<br><br>---<br><br># 📊 Contribution Graph<br><br><p align="center"><br><br><img src="https://github-readme-activity-graph.vercel.app/graph?username=manjagirit&theme=github-compact"/><br><br></p><br><br>---<br><br># 🌱 Currently Learning<br><br>- Playwright with Java<br>- Advanced API Automation<br>- GitHub Actions<br>- Docker<br>- Performance Testing<br>- Design Patterns for Automation Frameworks<br><br>---<br><br># 🤝 Connect with Me<br><br><p align="left"><br><br><a href="https://linkedin.com/in/YOUR-LINKEDIN"><br><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/><br></a><br><br><a href="giri9711.t@gmail.com"><br><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/><br></a><br><br><a href="https://github.com/manjagirit"><br><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/><br></a><br><br></p><br><br>---<br><br># 💡 Quote<br><br>> **First, solve the problem. Then, automate the solution.**<br><br>---<br><br><div align="center"><br><br>### ⭐ Thanks for visiting my profile!<br><br>**If you like my projects, consider giving them a ⭐**<br><br></div>
+<div align="center">
 
+# 👋 Hi, I'm Manjunath
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manjunatht97/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giri9711.t@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer;Java+%7C+Selenium+%7C+Playwright;API+Testing+%7C+REST+Assured;Building+Scalable+Automation+Frameworks;Always+Learning+New+Technologies" alt="Typing Animation"/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manjagirit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=manjagirit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manjagirit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=manjagirit&label=Profile%20Views&color=0E75B6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/manjagirit?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/manjagirit?style=for-the-badge"/>
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=manjagirit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+I'm a passionate **QA Automation Engineer** who enjoys building robust, scalable, and maintainable automation frameworks.
+
+I love solving testing challenges through automation and continuously learning modern testing tools and best practices.
+
+- 💻 QA Automation Engineer
+- ☕ Java Enthusiast
+- 🤖 UI Automation Specialist
+- 🔌 API Automation Engineer
+- 🌱 Currently learning Playwright with Java
+- 🚀 Passionate about Clean Code & Framework Design
+
+---
+
+# 🎯 What I Do
+
+✔ UI Automation
+
+✔ API Automation
+
+✔ Framework Development
+
+✔ Manual Testing
+
+✔ Cross Browser Testing
+
+✔ Regression Testing
+
+✔ Smoke Testing
+
+✔ Functional Testing
+
+✔ Data Driven Testing
+
+✔ CI/CD Integration
+
+✔ Bug Reporting
+
+✔ Agile Testing
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Programming
+
+- Java
+
+---
+
+## 🤖 Automation Testing
+
+- Selenium WebDriver
+- Playwright
+- TestNG
+- Cucumber BDD
+
+---
+
+## 🔌 API Testing
+
+- REST Assured
+- Postman
+
+---
+
+## 🗄 Database
+
+- SQL
+- MySQL
+
+---
+
+## 📦 Build Tools
+
+- Maven
+
+---
+
+## 🔄 Version Control
+
+- Git
+- GitHub
+
+---
+
+## 🚀 CI/CD
+
+- Jenkins
+
+---
+
+## 🏗 Framework Design
+
+- Hybrid Framework
+- Page Object Model (POM)
+- Data Driven Framework
+- Keyword Driven Framework
+
+---
+
+## 🛠 IDE & Tools
+
+- IntelliJ IDEA
+- Eclipse
+- Visual Studio Code
+- Jira
+- Postman
+
+---
+
+# 📚 Core Skills
+
+| Skill | Proficiency |
+|--------|------------|
+| Java | ⭐⭐⭐⭐⭐ |
+| Selenium | ⭐⭐⭐⭐⭐ |
+| Playwright | ⭐⭐⭐⭐☆ |
+| REST Assured | ⭐⭐⭐⭐☆ |
+| TestNG | ⭐⭐⭐⭐⭐ |
+| Cucumber | ⭐⭐⭐⭐☆ |
+| SQL | ⭐⭐⭐⭐☆ |
+| Git | ⭐⭐⭐⭐☆ |
+| Jenkins | ⭐⭐⭐⭐☆ |
+| Manual Testing | ⭐⭐⭐⭐⭐ |
+
+---
+
+# 💼 Automation Expertise
+
+### UI Automation
+
+- Selenium WebDriver
+- Playwright
+- Cross Browser Testing
+- Parallel Execution
+- Explicit Waits
+- Dynamic XPath
+- Page Factory
+- ThreadLocal
+- Selenium Grid
+
+---
+
+### API Testing
+
+- GET
+- POST
+- PUT
+- PATCH
+- DELETE
+- OAuth
+- Bearer Token
+- Basic Authentication
+- JSON Validation
+- Serialization
+- Deserialization
+
+---
+
+### Framework Components
+
+- Page Object Model
+- Utility Classes
+- Base Test
+- Driver Factory
+- Excel Utility
+- Screenshot Utility
+- Extent Reports
+- Log4j2
+- Maven
+- TestNG XML
+- Retry Analyzer
+- Listeners
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+## 🔹 Selenium Java Hybrid Framework
+
+### Features
+
+- Java
+- Selenium 4
+- TestNG
+- Maven
+- Page Object Model
+- Data Driven Testing
+- Apache POI
+- Log4j2
+- Extent Reports
+- Utility Classes
+- Retry Mechanism
+- Cross Browser Testing
+- Parallel Execution
+- Screenshot on Failure
+
+### Highlights
+
+- Enterprise Level Framework
+
+- Clean Folder Structure
+
+- Reusable Utilities
+
+- Scalable Architecture
+
+- Easy Maintenance
+
+Repository
+
+```text
+https://github.com/manjagirit/selenium-java-hybrid-framework
+```
+
+---
+
+## 🔹 Playwright Java Framework
+
+### Features
+
+- Java
+
+- Playwright
+
+- TestNG
+
+- Page Object Model
+
+- Parallel Execution
+
+- Auto Wait
+
+- Screenshot Capture
+
+- Video Recording
+
+- Retry Mechanism
+
+- Browser Context
+
+- API Integration
+
+Repository
+
+```text
+https://github.com/manjagirit/playwright-java-framework
+```
+
+---
+
+## 🔹 REST Assured API Framework
+
+### Features
+
+- REST Assured
+
+- Java
+
+- TestNG
+
+- JSON Schema Validation
+
+- Authentication
+
+- Logging
+
+- Request Specification
+
+- Response Specification
+
+- Reusable Methods
+
+- Reporting
+
+Repository
+
+```text
+https://github.com/manjagirit/restassured-api-framework
+```
+
+---
+
+## 📌 Currently Working On
+
+- Advanced Playwright Framework
+
+- API Automation Framework
+
+- GitHub Actions Integration
+
+- Docker for Test Automation
+
+- Performance Testing Basics
+
+---
+
+# 🌱 Learning Journey
+
+✔ Advanced Playwright
+
+✔ GitHub Actions
+
+✔ Docker
+
+✔ Kubernetes Basics
+
+✔ Performance Testing
+
+✔ Design Patterns in Automation
+
+---
+
+**➡️ Continue with Part 2/3 (GitHub Stats, Activity Graph, Trophies, Certifications, Achievements, Coding Profiles).**
+
+
