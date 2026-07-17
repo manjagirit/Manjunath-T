@@ -118,9 +118,7 @@ I love solving testing challenges through automation and continuously learning m
 
 ## 🛠 IDE & Tools
 
-- IntelliJ IDEA
 - Eclipse
-- Visual Studio Code
 - Jira
 - Postman
 
@@ -130,16 +128,16 @@ I love solving testing challenges through automation and continuously learning m
 
 | Skill | Proficiency |
 |--------|------------|
-| Java | ⭐⭐⭐⭐⭐ |
+| Java | ⭐⭐⭐⭐☆ |
 | Selenium | ⭐⭐⭐⭐⭐ |
 | Playwright | ⭐⭐⭐⭐☆ |
 | REST Assured | ⭐⭐⭐⭐☆ |
-| TestNG | ⭐⭐⭐⭐⭐ |
+| TestNG | ⭐⭐⭐⭐⭐☆ |
 | Cucumber | ⭐⭐⭐⭐☆ |
 | SQL | ⭐⭐⭐⭐☆ |
 | Git | ⭐⭐⭐⭐☆ |
 | Jenkins | ⭐⭐⭐⭐☆ |
-| Manual Testing | ⭐⭐⭐⭐⭐ |
+| Manual Testing | ⭐⭐⭐⭐☆ |
 
 ---
 
@@ -235,40 +233,6 @@ https://github.com/manjagirit/selenium-java-hybrid-framework
 
 ---
 
-## 🔹 Playwright Java Framework
-
-### Features
-
-- Java
-
-- Playwright
-
-- TestNG
-
-- Page Object Model
-
-- Parallel Execution
-
-- Auto Wait
-
-- Screenshot Capture
-
-- Video Recording
-
-- Retry Mechanism
-
-- Browser Context
-
-- API Integration
-
-Repository
-
-```text
-https://github.com/manjagirit/playwright-java-framework
-```
-
----
-
 ## 🔹 REST Assured API Framework
 
 ### Features
@@ -303,7 +267,6 @@ https://github.com/manjagirit/restassured-api-framework
 
 ## 📌 Currently Working On
 
-- Advanced Playwright Framework
 
 - API Automation Framework
 
@@ -311,26 +274,20 @@ https://github.com/manjagirit/restassured-api-framework
 
 - Docker for Test Automation
 
-- Performance Testing Basics
-
 ---
 
 # 🌱 Learning Journey
 
-✔ Advanced Playwright
 
 ✔ GitHub Actions
 
+✔ Learning Playwright Automation
+
 ✔ Docker
-
-✔ Kubernetes Basics
-
-✔ Performance Testing
 
 ✔ Design Patterns in Automation
 
 ---
 
-**➡️ Continue with Part 2/3 (GitHub Stats, Activity Graph, Trophies, Certifications, Achievements, Coding Profiles).**
 
 
