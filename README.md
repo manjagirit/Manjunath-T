@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998E,50:38EF7D,100:00C9A7&height=160&section=header&text=Manjunath T&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998E,50:38EF7D,100:00C9A7&height=160&section=header&text=Manjunath&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
 Hi 👋 I'm Manjunath
 </div>
 
